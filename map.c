@@ -13,7 +13,7 @@ void show_map(char map[20][20])
     }
 }
 
-
+//cos nowego...
 
 pole get_field_exp(cJSON *exp)
 {
